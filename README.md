@@ -174,4 +174,4 @@ Refer this channel for lerning **Python**
 Code with Tim (basic) : https://youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm&si=bUZ36D-8ag8Fmj4L
 Learning Python : https://youtube.com/playlist?list=PLiEts138s9P1A6rXyg4KZQiNBB_qTkq9V&si=BNNPi638ZFnDwsgt
 Error Makes Clever (full basic in tamil): https://youtu.be/m67-bOpOoPU?si=I2ZgZhnOdYlySYCp
-
+Tutor Joe's Stanley: https://youtu.be/Yp_tqu22zIU?si=6j3ZagSzZPC55yaU
