@@ -1,6 +1,8 @@
 number = int(input("Enter the Number:"))
 if(number > 0): # this condition is used for identify the number is less zero which means -1,-2,-3 and so on..
     print("The given number",number,"is positive")
+elif(number == 0):
+    print("The given number", number, "is zero")
 else:
     print("The given number",number,"is negative")
     
