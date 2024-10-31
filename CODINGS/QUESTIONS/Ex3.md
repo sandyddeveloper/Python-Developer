@@ -15,3 +15,10 @@ sample output:
 
 
 5) Write a program to read 10 numbers from the keyboard and find their sum and average.
+
+6) Write a program to compute the sum of the 5 nature numbers
+
+7) Write a program to read 10 numbers form the keyboard and find their sum and avg
+
+8) Write a program to display n terms of natural nummbers and their sum .
+

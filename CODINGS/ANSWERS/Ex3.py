@@ -40,4 +40,16 @@
 # print(sum)
 # print(avg)
 
+# sum = 0
+# for i in range(5):
+#     num = int(input())
+#     sum = sum + num
+# print(sum)
+
+# sum = 0
+# for i in range (7) :
+#     num = i + 1
+#     print(num)
+#     sum = sum + num
+# print(sum)
     
