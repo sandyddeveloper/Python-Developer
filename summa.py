@@ -1,25 +1,36 @@
-first = "santhosh"
-second = "Raj"
-# print( " ")
+import sys
+import random
 
-title = "menu".upper()
-print(title.center(20, "="))
+print("")
+playerchoice = input('Enter..\n1 for Rock,\n2 for Paper,\n3 for Scissores:\n\n')
 
-# name = "sandy".upper()
-# print(name.center(20, "*"))
+player = int(playerchoice)
 
-print("Python".ljust(20, ".") + "$145".rjust(4))
-print("Java".ljust(20, ".") + "$155".rjust(4))
-print("Cpp".ljust(20, ".") + "$165".rjust(4))
-print("javascript".ljust(20, ".") + "$145".rjust(4))
-print("c#".ljust(20, ".") + "$195".rjust(4))
-print("Ruby".ljust(20, ".") + "$245".rjust(4))
-print("php".ljust(20, ".") + "$45".rjust(4))
+if player <1 or player > 3:
+    sys.exit("You Must enter 1, 2, or 3.")
+    
+computer = random.choice("123")
 
-print(first[1])
-print(first[2])
-print(first[3])
-print(first[4])
-print(first[5])
-print(first[6])
-print(first[7])
+comp = int(computer)
+
+print("")
+print("You choose" + playerchoice + ".")
+print("Python choose" + computer + ".")
+print("")
+
+if player == comp:
+    print("Match Draw..")
+elif player == 1 and comp == 2:
+    print("You Won the match")
+elif player == 2 and comp == 1:
+    print("Comp is the winner..")
+elif player == 2 and comp == 3:
+    print("Comp is the Winner")
+elif player == 3 and comp == 2:
+    print("You Won the match")
+elif player == 3 and comp == 1:
+    print("Comp is the winner")
+elif player == 1 and comp == 3:
+    print("YOu are the winner")
+else:
+    print("Something went Worng")
