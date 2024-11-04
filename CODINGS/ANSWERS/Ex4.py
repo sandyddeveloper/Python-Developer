@@ -19,9 +19,12 @@
 #     i -=1
 
 #Four
-i = int(input("Enter the number for fact:"))
-fact = 1
-while i >0:
-    fact = fact * i
-    i = i - 1
-print(fact)
+# i = int(input("Enter the number for fact:"))
+# fact = 1
+# while i >0:
+#     fact = fact * i
+#     i = i - 1
+# print(fact)
+
+
+
