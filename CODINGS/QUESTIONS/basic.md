@@ -1,4 +1,4 @@
-Here are some very basic Python questions for beginners:  
+hiHere are some very basic Python questions for beginners:  
 
 ### Simple Print Statements:
 1. Write a Python program to print "Hello, World!".
@@ -25,6 +25,3 @@ Here are some very basic Python questions for beginners:
 12. Use a `while` loop to print numbers from 1 to 5.
 
 
-
-
-Would you like me to expand on any of these or add slightly advanced questions?
